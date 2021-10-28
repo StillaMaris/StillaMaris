@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code (mainly web sites and python for simulations/data analysis)
 - 🌱 I’m currently learning html and python
 - 💞️ I’m looking to collaborate on ... I don't have any idea! 
-- 📫 How to reach me ... DON'T.
+- 📫 How to reach me ...
 
 <!---
 StillaMaris/StillaMaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
