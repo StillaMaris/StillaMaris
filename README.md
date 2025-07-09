@@ -44,7 +44,7 @@ When I’m not debugging integrals, you’ll probably find me with a book, a cro
 ## 🌐 Connect with me
 - 📫 Email: mlbatch@uni-mainz.de
 <!--- - 🧠 [ORCID](https://orcid.org/) | [Google Scholar](https://scholar.google.com/) *(if you have them)*  --->
-- 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/miriam-el-batchy-8795a4253/) 
+- 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/miriam-el-batchy-8795a4253/]) 
 
 ---
 
